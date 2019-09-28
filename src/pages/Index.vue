@@ -1,11 +1,14 @@
 <template>
   <q-page class="flex flex-center">
-    <img alt="Quasar logo" src="~assets/quasar-logo-full.svg">
+    <my-player />
   </q-page>
 </template>
 
 <script>
+import MyPlayer from '../components/player';
+
 export default {
-  name: 'PageIndex'
-}
+  name: 'PageIndex',
+  components: { MyPlayer },
+};
 </script>
