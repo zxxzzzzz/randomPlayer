@@ -318,6 +318,7 @@ export default {
       } else {
         this.setCurrentTrack(this.currentTrackIndex);
       }
+      this.audio.play();
     },
     resetPlayer() {
       this.barWidth = 0;
