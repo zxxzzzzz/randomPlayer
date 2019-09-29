@@ -1,5 +1,8 @@
 import Vue from 'vue';
 import Vuex from 'vuex';
+import FM from './modules/FM';
+import User from './modules/User';
+import getters from './getters';
 
 // import example from './module-example'
 
@@ -10,16 +13,16 @@ Vue.use(Vuex);
  * directly export the Store instantiation
  */
 
-export default function (/* { ssrContext } */) {
-  const Store = new Vuex.Store({
-    modules: {
-      // example
-    },
+const Store = new Vuex.Store({
+  modules: {
+    FM,
+    User,
+  },
+  getters,
 
-    // enable strict mode (adds overhead!)
-    // for dev mode only
-    strict: process.env.DEV,
-  });
+  // enable strict mode (adds overhead!)
+  // for dev mode only
+  strict: process.env.DEV,
+});
 
-  return Store;
-}
+export default Store;

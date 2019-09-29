@@ -103,13 +103,6 @@
       </div>
       <div v-cloak />
     </div>
-    <a
-      href="https://github.com/muhammederdem/mini-player"
-      target="_blank"
-      class="github-btn"
-    >
-      See on GitHub
-    </a>
 
 
     <svg
@@ -168,10 +161,19 @@
           viewBox="0 0 32 32"
         >
           <title>link</title>
-          <path d="M23.584 17.92c0 0.864 0 1.728 0 2.56 0 1.312 0 2.656 0 3.968 0 0.352 0.032 0.736-0.032 1.12 0.032-0.16 0.032-0.288 0.064-0.448-0.032 0.224-0.096 0.448-0.16 0.64 0.064-0.128 0.128-0.256 0.16-0.416-0.096 0.192-0.192 0.384-0.32 0.576 0.096-0.128 0.16-0.224 0.256-0.352-0.128 0.16-0.288 0.32-0.48 0.48 0.128-0.096 0.224-0.16 0.352-0.256-0.192 0.128-0.352 0.256-0.576 0.32 0.128-0.064 0.256-0.128 0.416-0.16-0.224 0.096-0.416 0.16-0.64 0.16 0.16-0.032 0.288-0.032 0.448-0.064-0.256 0.032-0.512 0.032-0.768 0.032-0.448 0-0.896 0-1.312 0-1.472 0-2.976 0-4.448 0-1.824 0-3.616 0-5.44 0-1.568 0-3.104 0-4.672 0-0.736 0-1.44 0-2.176 0-0.128 0-0.224 0-0.352-0.032 0.16 0.032 0.288 0.032 0.448 0.064-0.224-0.032-0.448-0.096-0.64-0.16 0.128 0.064 0.256 0.128 0.416 0.16-0.192-0.096-0.384-0.192-0.576-0.32 0.128 0.096 0.224 0.16 0.352 0.256-0.16-0.128-0.32-0.288-0.48-0.48 0.096 0.128 0.16 0.224 0.256 0.352-0.128-0.192-0.256-0.352-0.32-0.576 0.064 0.128 0.128 0.256 0.16 0.416-0.096-0.224-0.16-0.416-0.16-0.64 0.032 0.16 0.032 0.288 0.064 0.448-0.032-0.256-0.032-0.512-0.032-0.768 0-0.448 0-0.896 0-1.312 0-1.472 0-2.976 0-4.448 0-1.824 0-3.616 0-5.44 0-1.568 0-3.104 0-4.672 0-0.736 0-1.44 0-2.176 0-0.128 0-0.224 0.032-0.352-0.032 0.16-0.032 0.288-0.064 0.448 0.032-0.224 0.096-0.448 0.16-0.64-0.064 0.128-0.128 0.256-0.16 0.416 0.096-0.192 0.192-0.384 0.32-0.576-0.096 0.128-0.16 0.224-0.256 0.352 0.128-0.16 0.288-0.32 0.48-0.48-0.128 0.096-0.224 0.16-0.352 0.256 0.192-0.128 0.352-0.256 0.576-0.32-0.128 0.064-0.256 0.128-0.416 0.16 0.224-0.096 0.416-0.16 0.64-0.16-0.16 0.032-0.288 0.032-0.448 0.064 0.48-0.064 0.96-0.032 1.44-0.032 0.992 0 1.952 0 2.944 0 1.216 0 2.432 0 3.616 0 1.056 0 2.112 0 3.168 0 0.512 0 1.024 0 1.536 0 0 0 0 0 0.032 0 0.448 0 0.896-0.192 1.184-0.48s0.512-0.768 0.48-1.184c-0.032-0.448-0.16-0.896-0.48-1.184s-0.736-0.48-1.184-0.48c-0.64 0-1.28 0-1.92 0-1.408 0-2.816 0-4.224 0-1.44 0-2.848 0-4.256 0-0.672 0-1.344 0-2.016 0-0.736 0-1.472 0.192-2.112 0.576s-1.216 0.96-1.568 1.6c-0.384 0.64-0.544 1.376-0.544 2.144 0 0.672 0 1.376 0 2.048 0 1.28 0 2.56 0 3.84 0 1.504 0 3.040 0 4.544 0 1.408 0 2.848 0 4.256 0 0.992 0 1.952 0 2.944 0 0.224 0 0.448 0 0.64 0 0.864 0.224 1.76 0.768 2.464 0.16 0.192 0.288 0.384 0.48 0.576s0.384 0.352 0.608 0.512c0.32 0.224 0.64 0.384 1.024 0.512 0.448 0.16 0.928 0.224 1.408 0.224 0.16 0 0.32 0 0.48 0 0.896 0 1.792 0 2.72 0 1.376 0 2.784 0 4.16 0 1.536 0 3.040 0 4.576 0 1.312 0 2.656 0 3.968 0 0.768 0 1.536 0 2.336 0 0.416 0 0.832-0.032 1.248-0.128 1.504-0.32 2.784-1.6 3.104-3.104 0.128-0.544 0.128-1.056 0.128-1.568 0-0.608 0-1.184 0-1.792 0-1.408 0-2.816 0-4.224 0-0.256 0-0.512 0-0.768 0-0.448-0.192-0.896-0.48-1.184s-0.768-0.512-1.184-0.48c-0.448 0.032-0.896 0.16-1.184 0.48-0.384 0.384-0.576 0.768-0.576 1.248v0z" />
-          <path d="M32 11.232c0-0.8 0-1.568 0-2.368 0-1.248 0-2.528 0-3.776 0-0.288 0-0.576 0-0.864 0-0.896-0.768-1.696-1.696-1.696-0.8 0-1.568 0-2.368 0-1.248 0-2.528 0-3.776 0-0.288 0-0.576 0-0.864 0-0.448 0-0.896 0.192-1.184 0.48s-0.512 0.768-0.48 1.184c0.032 0.448 0.16 0.896 0.48 1.184s0.736 0.48 1.184 0.48c0.8 0 1.568 0 2.368 0 1.248 0 2.528 0 3.776 0 0.288 0 0.576 0 0.864 0-0.576-0.576-1.12-1.12-1.696-1.696 0 0.8 0 1.568 0 2.368 0 1.248 0 2.528 0 3.776 0 0.288 0 0.576 0 0.864 0 0.448 0.192 0.896 0.48 1.184s0.768 0.512 1.184 0.48c0.448-0.032 0.896-0.16 1.184-0.48 0.352-0.256 0.544-0.64 0.544-1.12v0z" />
-          <path d="M15.040 21.888c0.16-0.16 0.288-0.288 0.448-0.448 0.384-0.384 0.8-0.8 1.184-1.184 0.608-0.608 1.184-1.184 1.792-1.792 0.704-0.704 1.44-1.44 2.176-2.176 0.8-0.8 1.568-1.568 2.368-2.368s1.6-1.6 2.4-2.4c0.736-0.736 1.504-1.504 2.24-2.24 0.64-0.64 1.248-1.248 1.888-1.888 0.448-0.448 0.896-0.896 1.344-1.344 0.224-0.224 0.448-0.416 0.64-0.64 0 0 0.032-0.032 0.032-0.032 0.32-0.32 0.48-0.768 0.48-1.184s-0.192-0.896-0.48-1.184c-0.32-0.288-0.736-0.512-1.184-0.48-0.512 0.032-0.928 0.16-1.248 0.48-0.16 0.16-0.288 0.288-0.448 0.448-0.384 0.384-0.8 0.8-1.184 1.184-0.608 0.608-1.184 1.184-1.792 1.792-0.704 0.704-1.44 1.44-2.176 2.176-0.8 0.8-1.568 1.568-2.368 2.368s-1.6 1.6-2.4 2.4c-0.736 0.736-1.504 1.504-2.24 2.24-0.64 0.64-1.248 1.248-1.888 1.888-0.448 0.448-0.896 0.896-1.344 1.344-0.224 0.224-0.448 0.416-0.64 0.64 0 0-0.032 0.032-0.032 0.032-0.32 0.32-0.48 0.768-0.48 1.184s0.192 0.896 0.48 1.184c0.32 0.288 0.736 0.512 1.184 0.48 0.48 0 0.928-0.16 1.248-0.48v0z" />
+          <svg
+            t="1569747476833"
+            viewBox="0 0 1024 1024"
+            version="1.1"
+            xmlns="http://www.w3.org/2000/svg"
+            width="32"
+            height="32"
+          ><path
+            d="M816 384c26.245 0 47.57 21.063 47.994 47.206L864 432v384c0 78.734-63.188 142.71-141.619 143.98L720 960H304c-78.734 0-142.71-63.188-143.98-141.619L160 816V432c0-26.51 21.49-48 48-48 26.245 0 47.57 21.063 47.994 47.206L256 432v384c0 26.245 21.063 47.57 47.206 47.994L304 864h416c26.245 0 47.57-21.063 47.994-47.206L768 816V432c0-26.51 21.49-48 48-48z m-416 0c26.51 0 48 21.49 48 48v288c0 26.51-21.49 48-48 48s-48-21.49-48-48V432c0-26.51 21.49-48 48-48z m224 0c26.51 0 48 21.49 48 48v288c0 26.51-21.49 48-48 48s-48-21.49-48-48V432c0-26.51 21.49-48 48-48z m256-160c26.51 0 48 21.49 48 48s-21.49 48-48 48H144c-26.51 0-48-21.49-48-48s21.49-48 48-48h736zM624 64c26.51 0 48 21.49 48 48s-21.49 48-48 48H400c-26.51 0-48-21.49-48-48s21.49-48 48-48h224z"
+            p-id="841"
+          /></svg>
         </symbol>
+
         <symbol
           id="icon-next"
           viewBox="0 0 32 32"
@@ -200,6 +202,12 @@ export default {
   I can't find any open music api or mp3 api so i have to download all musics as mp3 file.
   You can fork on github: https://github.com/muhammederdem/mini-player
   */
+  props: {
+    tracks: {
+      type: Array,
+      default: () => [],
+    },
+  },
   data() {
     return {
       audio: null,
@@ -208,89 +216,13 @@ export default {
       duration: null,
       currentTime: null,
       isTimerPlaying: false,
-      tracks: [
-        {
-          name: 'Mekanın Sahibi',
-          artist: 'Norm Ender',
-          cover: 'https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/1.jpg',
-          source: 'https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/1.mp3',
-          url: 'https://www.youtube.com/watch?v=z3wAjJXbYzA',
-          favorited: false,
-        },
-        {
-          name: 'Everybody Knows',
-          artist: 'Leonard Cohen',
-          cover: 'https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/2.jpg',
-          source: 'https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/2.mp3',
-          url: 'https://www.youtube.com/watch?v=Lin-a2lTelg',
-          favorited: true,
-        },
-        {
-          name: 'Extreme Ways',
-          artist: 'Moby',
-          cover: 'https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/3.jpg',
-          source: 'https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/3.mp3',
-          url: 'https://www.youtube.com/watch?v=ICjyAe9S54c',
-          favorited: false,
-        },
-        {
-          name: 'Butterflies',
-          artist: 'Sia',
-          cover: 'https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/4.jpg',
-          source: 'https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/4.mp3',
-          url: 'https://www.youtube.com/watch?v=kYgGwWYOd9Y',
-          favorited: false,
-        },
-        {
-          name: 'The Final Victory',
-          artist: 'Haggard',
-          cover: 'https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/5.jpg',
-          source: 'https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/5.mp3',
-          url: 'https://www.youtube.com/watch?v=0WlpALnQdN8',
-          favorited: true,
-        },
-        {
-          name: 'Genius ft. Sia, Diplo, Labrinth',
-          artist: 'LSD',
-          cover: 'https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/6.jpg',
-          source: 'https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/6.mp3',
-          url: 'https://www.youtube.com/watch?v=HhoATZ1Imtw',
-          favorited: false,
-        },
-        {
-          name: 'The Comeback Kid',
-          artist: 'Lindi Ortega',
-          cover: 'https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/7.jpg',
-          source: 'https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/7.mp3',
-          url: 'https://www.youtube.com/watch?v=me6aoX0wCV8',
-          favorited: true,
-        },
-        {
-          name: 'Overdose',
-          artist: 'Grandson',
-          cover: 'https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/8.jpg',
-          source: 'https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/8.mp3',
-          url: 'https://www.youtube.com/watch?v=00-Rl3Jlx-o',
-          favorited: false,
-        },
-        {
-          name: "Rag'n'Bone Man",
-          artist: 'Human',
-          cover: 'https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/9.jpg',
-          source: 'https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/9.mp3',
-          url: 'https://www.youtube.com/watch?v=L3wKzyIN1yk',
-          favorited: false,
-        },
-      ],
-      currentTrack: null,
+      currentTrack: {},
       currentTrackIndex: 0,
       transitionName: null,
     };
   },
   created() {
-    [this.currentTrack] = this.tracks;
     this.audio = new Audio();
-    this.audio.src = this.currentTrack.source;
     this.audio.ontimeupdate = () => {
       this.generateTime();
     };
@@ -301,18 +233,14 @@ export default {
       this.nextTrack();
       this.isTimerPlaying = true;
     };
-
-    // this is optional (for preload covers)
-    for (let index = 0; index < this.tracks.length; index += 1) {
-      const element = this.tracks[index];
-      const link = document.createElement('link');
-      link.rel = 'prefetch';
-      link.href = element.cover;
-      link.as = 'image';
-      document.head.appendChild(link);
-    }
+    this.setCurrentTrack(0);
   },
   methods: {
+    setCurrentTrack(index = 0) {
+      this.currentTrack = this.tracks[index];
+      this.currentTrackIndex = index;
+      this.resetPlayer();
+    },
     play() {
       if (this.audio.paused) {
         this.audio.play();
@@ -380,31 +308,25 @@ export default {
     nextTrack() {
       this.transitionName = 'scale-out';
       this.isShowCover = false;
-      if (this.currentTrackIndex < this.tracks.length - 1) {
-        this.currentTrackIndex += 1;
+      this.currentTrackIndex += 1;
+      /** 播到最后一首 */
+      if (this.currentTrackIndex === this.tracks.length - 1) {
+        this.setCurrentTrack(this.currentTrackIndex);
+        this.$emit('tracksEnd');
+      } else if (this.currentTrackIndex === this.tracks.length) {
+        this.setCurrentTrack(0);
       } else {
-        this.currentTrackIndex = 0;
+        this.setCurrentTrack(this.currentTrackIndex);
       }
-      this.currentTrack = this.tracks[this.currentTrackIndex];
-      this.resetPlayer();
     },
     resetPlayer() {
       this.barWidth = 0;
       this.circleLeft = 0;
       this.audio.currentTime = 0;
       this.audio.src = this.currentTrack.source;
-      setTimeout(() => {
-        if (this.isTimerPlaying) {
-          this.audio.play();
-        } else {
-          this.audio.pause();
-        }
-      }, 300);
     },
     favorite() {
-      this.tracks[this.currentTrackIndex].favorited = !this.tracks[
-        this.currentTrackIndex
-      ].favorited;
+      this.$emit('clickLike', this.currentTrack.id);
     },
   },
 

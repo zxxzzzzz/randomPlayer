@@ -1,3 +1,6 @@
+/* eslint-disable no-unused-vars */
+/* eslint-disable global-require */
+/* eslint-disable func-names */
 // Configuration for your app
 // https://quasar.dev/quasar-cli/quasar-conf-js
 
@@ -82,6 +85,16 @@ module.exports = function (ctx) {
       // https: true,
       // port: 8080,
       open: true, // opens browser window automatically
+      proxy: {
+        // proxy all requests starting with /api to jsonplaceholder
+        '/api': {
+          target: 'http://129.28.171.18:3000',
+          changeOrigin: true,
+          pathRewrite: {
+            '^/api': '',
+          },
+        },
+      },
     },
 
     // animations: 'all', // --- includes all animations
